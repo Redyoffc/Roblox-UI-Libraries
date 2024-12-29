@@ -27,7 +27,7 @@ function library:console(func)
     func(("\n"):rep(57))
 end
 
-library.signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/Quenty/NevermoreEngine/version2/Modules/Shared/Events/Signal.lua"))()
+library.signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Other%20Files/Signal.lua?token=GHSAT0AAAAAAC4RIEBNLC2AKGDCIG7SMUGIZ3RW3UQ"))()
 
 local local_player = game:GetService("Players").LocalPlayer
 local mouse = local_player:GetMouse()
