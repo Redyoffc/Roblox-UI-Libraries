@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet(''))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Criminality%20Lib/Criminality%20Lib%20Source.lua?token=GHSAT0AAAAAAC4RIEBMK2TSPRDYAHXJFRUQZ3RWZVA'))()
 
 -- // Window \\ --
 local window = library.new('leadmarker is so hot', 'leadmarker')
