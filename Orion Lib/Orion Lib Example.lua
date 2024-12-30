@@ -1,5 +1,5 @@
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Orion%20Lib/Orion%20Lib%20Source.lua')))()
 
 OrionLib:MakeNotification({
 	Name = "Orion Example",
