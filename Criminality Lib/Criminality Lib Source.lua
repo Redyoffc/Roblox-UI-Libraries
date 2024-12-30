@@ -82,7 +82,7 @@ function library.new(library_title, cfg_location)
 
     if not isfolder(cfg_location) then
         makefolder(cfg_location)
-    end
+	end
     
     function menu.copy(original)
         local copy = {}
