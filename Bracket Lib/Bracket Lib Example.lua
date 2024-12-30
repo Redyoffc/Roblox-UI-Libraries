@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Bracket-V2/main/src.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Bracket%20Lib/Bracket%20Lib%20Source.lua?token=GHSAT0AAAAAAC4RIEBNSCS5VBFBFHW5EBO6Z3SL2KQ"))()
 
 -- Window
 local Window, MainGUI = Library:CreateWindow("Bracket-V2")
