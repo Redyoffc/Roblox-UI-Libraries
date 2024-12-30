@@ -1,4 +1,4 @@
-local Luminosity = loadstring(game:HttpGet("https://raw.githubusercontent.com/iHavoc101/Genesis-Studios/main/UserInterface/Luminosity.lua", true))()
+local Luminosity = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Luminosity%20Lib/Luminosity%20Lib%20Source.lua", true))()
 
 local Window = Luminosity.new("Luminosity UI", "v1.0.0", 4370345701)
 
