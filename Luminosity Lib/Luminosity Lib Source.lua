@@ -18,7 +18,6 @@
 
     Credits:
         (None Yet)
-
 ]]
 
 -- [ Initialize ] --
