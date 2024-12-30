@@ -17,7 +17,6 @@ local sector1 = section.new_sector('BRUHHHH', 'Right')
 
 -- // Elements \\ -- (Type, Name, State, Callback)
 local button = sector.element('Button', 'Button', nil, function()
-
 end)
 
 local toggle = sector.element('Toggle', 'Toggle', false, function(v)
