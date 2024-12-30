@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/matas3535/gamesneeze/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/GameSneeze%20Lib/GameSneeze%20Lib%20Source.lua?token=GHSAT0AAAAAAC4RIEBMUH2GYB6HLZTYPPUMZ3SMVEA"))()
 
 local Window = Library:New({
     Name = "Title", -- name, Name, title, Title
