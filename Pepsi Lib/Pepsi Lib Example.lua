@@ -1,4 +1,4 @@
-local library = loadstring(game:GetObjects("rbxassetid://7657867786")[1].Source)()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Pepsi%20Lib/Pepsi%20Lib%20Source.lua"))()
 local Wait = library.subs.Wait -- Only returns if the GUI has not been terminated. For 'while Wait() do' loops
 
 local PepsisWorld = library:CreateWindow({
