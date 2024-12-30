@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ShaddowScripts/Main/main/Library"))()
+local library = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Shadow%20Lib/Shadow%20Lib%20Source.lua"))()
 
 local Main = library:CreateWindow("Main","Crimson")
 
