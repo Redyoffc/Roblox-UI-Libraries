@@ -1,5 +1,5 @@
 -- // Tables
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/matas3535/PoopLibrary/main/Library.lua"))() -- Could Also Save It In Your Workspace And Do loadfile("Library.lua")()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Splix%20Lib/Splix%20Lib%20Source.lua"))() -- Could Also Save It In Your Workspace And Do loadfile("Library.lua")()
 -- // Variables
 -- // Init
 local Window = Library:New({Name = "Splix Private Poop UI", Accent = Color3.fromRGB(25, 240, 100)})
