@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/laagginq/ui-libraries/main/aztup/src.lua"))();
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Aztup%20Lib/Aztup%20Lib%20Source.lua"))();
 
 
 local Gamer = library:CreateSection("A");
