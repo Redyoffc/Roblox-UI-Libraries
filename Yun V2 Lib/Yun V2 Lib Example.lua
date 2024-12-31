@@ -17,7 +17,7 @@ local Visualssec1 = Tab2:Section{name = "Wallhacks", column = 1}
 
     end
 }
-
+        
     Aimingsec1:Slider {
     Name = "Smoothing",
     Default = 0,
