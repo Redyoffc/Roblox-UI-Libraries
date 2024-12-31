@@ -6,7 +6,6 @@ Special Thanks To: Qw#1549
 function initLibrary()
     local folderName = "epic config folder"
 
-
     if not isfolder(folderName) then
         makefolder(folderName)
     end
