@@ -1,5 +1,5 @@
 
-local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Discord%20Lib/Discord%20Lib%20Source.lua?token=GHSAT0AAAAAAC4RIEBNI2R7M3J4QXUTNPSOZ3RWJHQ")()
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/Redyoffc/Roblox-UI-Libraries/refs/heads/UI-Libraries/Discord%20Lib/Discord%20Lib%20Source.lua")()
 
 local win = DiscordLib:Window("discord library")
 
